@@ -1,0 +1,23 @@
+.Brand {
+    color: rgb(20, 100, 170);
+    font-size: 2000px;
+}
+.Thong-bao{
+    color: rgb(228, 16, 16);
+    font-weight: 600;
+}
+.Button-cart{
+    border: none;
+    background-color: #2183F6;
+    height: 35px;
+    color: aliceblue;
+}
+.Nofication{
+    height: 45px;
+}
+.Thanh-tien{
+    font-weight: 700;
+}
+.text-product{
+    text-align: left;
+}
